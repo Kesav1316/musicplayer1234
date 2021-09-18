@@ -1,0 +1,23 @@
+{
+  "name": "music-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "musicbot.js",
+  "scripts": {
+    "start": "nodemon -e js"
+  },
+  "author": "BIOLOGY SCIENCE",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/opus": "^0.5.3",
+    "discord-reply": "^0.1.2",
+    "discord.js": "^12.5.3",
+    "fs": "0.0.1-security",
+    "mathjs": "^9.4.3",
+    "yt-search": "^2.10.1",
+    "ytdl-core": "^4.9.1"
+  },
+  "engines": {
+    "node": "14.16"
+  }
+}
