@@ -1,0 +1,66 @@
+{
+    "875663122663358524": {
+      "COMMENT": "THIS IS FOR THE SERVER: CHILL ZONE",
+      "links": [],
+      "channels": [],
+      "qlist": [],
+      "now": {
+        "SongAndLink": [],
+        "Channel": []
+      },
+      "counter": 0,
+      "NowPlaying" : false
+    },
+
+    "854281975832248322": {
+        "COMMENT": "THIS IS FOR THE SERVER: GoodFellas",
+        "links": [],
+        "channels": [],
+        "qlist": [],
+        "now": {
+          "SongAndLink": [],
+          "Channel": []
+        },
+        "counter": 0,
+        "NowPlaying" : false
+      },
+
+      "840182620209152060": {
+        "COMMENT": "THIS IS FOR THE SERVER: CS Buddies",
+        "links": [],
+        "channels": [],
+        "qlist": [],
+        "now": {
+          "SongAndLink": [],
+          "Channel": []
+        },
+        "counter": 0,
+        "NowPlaying" : false
+      },
+
+      "858217974728097802": {
+        "COMMENT": "THIS IS FOR THE SERVER: GAMING BUDDIES",
+        "links": [],
+        "channels": [],
+        "qlist": [],
+        "now": {
+          "SongAndLink": [],
+          "Channel": []
+        },
+        "counter": 0,
+        "NowPlaying" : false
+      },
+
+      "796955863616716830": {
+        "COMMENT": "THIS IS FOR THE SERVER: SAD LIFE VRO",
+        "links": [],
+        "channels": [],
+        "qlist": [],
+        "now": {
+          "SongAndLink": [],
+          "Channel": []
+        },
+        "counter": 0,
+        "NowPlaying" : false
+      }
+  }
