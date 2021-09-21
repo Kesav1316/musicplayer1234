@@ -62,5 +62,18 @@
         },
         "counter": 0,
         "NowPlaying" : false
+      },
+
+      "742644699084357683": {
+        "COMMENT": "THIS IS FOR THE SERVER: TEST",
+        "links": [],
+        "channels": [],
+        "qlist": [],
+        "now": {
+          "SongAndLink": [],
+          "Channel": []
+        },
+        "counter": 0,
+        "NowPlaying" : false
       }
   }
