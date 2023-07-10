@@ -637,4 +637,4 @@ client.on
 }
 );
 
-client.login('ODc2NzcyMjI3NzM4MTA3OTQ0.YRo7xA.9rA_Mw7QESRsEg1RnEyL8r69_D8');
+client.login('');
